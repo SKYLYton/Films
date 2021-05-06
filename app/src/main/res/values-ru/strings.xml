@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Фильмы</string>
 
+    //toast
+    <string name="hello_world">Привет мир!</string>
+
+    //main activity
+    <string name="click_me">Нажми на меня</string>
+
 </resources>
