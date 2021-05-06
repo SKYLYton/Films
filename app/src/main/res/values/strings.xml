@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Films</string>
 
+    //toast
+    <string name="hello_world">Hello world!</string>
+
+    //main activity
+    <string name="click_me">Click me</string>
+
 </resources>
